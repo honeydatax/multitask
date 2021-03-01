@@ -1,4 +1,0 @@
-https://busybox.net/downloads/binaries/
-
-example ./runer.sh busybox-i486 sh
-
